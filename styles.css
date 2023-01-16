@@ -1,0 +1,24 @@
+
+h1 {
+  margin: 60px;
+  /* font-family: 'Lobster', cursive; */
+
+  font-size: 3rem;
+  color: #ffffff;
+}
+
+p {
+  color: #ffffff;
+}
+
+footer {
+  padding-top: 80px;
+}
+
+.btn {
+  margin: 30px;
+  color: #ffffff;
+  box-shadow: 5px 5px 5px 0 rgba(0,0,0,0.3);
+  background-color: #829460;
+
+}
